@@ -1,0 +1,10 @@
+#notification {
+  background-color: #0c63b9 !important;
+  color: #ffffff !important;
+  text-align: center !important;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.unique list-group-item {
+  background-color: #0d4883 !important;
+}

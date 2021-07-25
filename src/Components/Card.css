@@ -1,0 +1,41 @@
+.card-col {
+  padding: 30px;
+}
+
+.cards {
+  padding: 10px;
+}
+
+.card-title {
+  display: relative !important;
+  top: 10px;
+}
+
+.card-body {
+  margin: 0px !important;
+  padding: 6px !important;
+  display: inline;
+  text-align: left !important;
+}
+
+.card-text {
+  font-size: 12px;
+  padding: 0px;
+  display: inline;
+  text-align: left !important;
+}
+.btn-warning {
+  display: block;
+  font-size: 12px !important;
+  color: #fff !important;
+  width: 100%;
+  background-color: #d86518 !important;
+}
+h2 {
+  text-align: center;
+  margin: 0 0 30px 0;
+  font-weight: 600;
+  color: #0051ab;
+  font-size: 25px;
+  font-family: Merriweather, serif;
+}

@@ -1,0 +1,33 @@
+.page-links {
+  margin: 0px;
+  padding: 0px;
+  background-color: #012550;
+  padding-top: 20px;
+}
+.page-links li {
+  margin: 0px;
+  padding: 0px;
+  background-color: #012550;
+  color: #ffffff;
+  list-style: none;
+  text-align: left;
+  font-size: 13px;
+}
+.social {
+  background-color: #021b39;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+.social li {
+  display: inline;
+  padding: 5px;
+}
+.copyright {
+  background-color: #021b39;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  color: #ffffff;
+  font-size: 13px;
+  border-top: 0.1px solid #ffffff;
+}

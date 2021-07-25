@@ -1,0 +1,12 @@
+.vlog {
+  background-color: #333333;
+  padding: 20px;
+}
+
+.btn-light {
+  font-size: 14px !important;
+  color: #000000 !important;
+  border-radius: 100px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
