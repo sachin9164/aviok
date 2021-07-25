@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##After cloning
+### After cloning
 
 Go inside directory and run npm init to install dependencies.
 
-##Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
